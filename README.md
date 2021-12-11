@@ -1,6 +1,6 @@
 Membros do Projeto: 
-Fernanda Veneroso de Almeida  RA:17.00112-9
-Karina Lumi Duque Kuroda 17.00709-7
+Fernanda Veneroso de Almeida  RA:17.00112-9/ 
+Karina Lumi Duque Kuroda 17.00709-7/ 
 Xiaoying He   RA:17.00670-8
 
 # api_programacao_funcional
